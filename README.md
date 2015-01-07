@@ -7,7 +7,7 @@ http://tryit.sunlightfoundation.com/congress | http://tryit.sunlightfoundation.c
 ### Base URL
 Congress | Open States
 --------     | ---
-https://congress.api.sunlightfoundation.com/[METHOD] | http://openstates.org/api/v1/[METHOD]
+https://congress.api.sunlightfoundation.com/METHOD | http://openstates.org/api/v1/METHOD
 
 ### Methods
 
