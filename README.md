@@ -1,15 +1,15 @@
-### Docs
+#### Docs
 Congress | Open States
 --------     | ---
 https://sunlightlabs.github.io/congress/ | http://sunlightlabs.github.io/openstates-api/
 http://tryit.sunlightfoundation.com/congress | http://tryit.sunlightfoundation.com/openstates
 
-### Base URL
+#### Base URL
 Congress | Open States
 --------     | ---
 https://congress.api.sunlightfoundation.com/METHOD | http://openstates.org/api/v1/METHOD
 
-### Methods
+#### Methods
 
 Congress | Open States
 --------     | ---
@@ -38,7 +38,7 @@ Congress | Open States
 ... | /districts/state/[chamber/]
 ... | /districts/boundary/boundary_id/
 
-### Fields
+#### Fields
 Congress     | Open States
 --------     | ---
 committee_id | id
