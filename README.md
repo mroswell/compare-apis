@@ -57,4 +57,15 @@ office | ...
 phone | ...
 
 
+####Unique to Congress API
 
+- pagination using per_page parameter
+
+```
+  "count": 163,
+  "page": {
+    "per_page": 50,
+    "page": 3,
+    "count": 50
+ }
+```
